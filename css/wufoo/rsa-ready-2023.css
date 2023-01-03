@@ -1,0 +1,26 @@
+/*
+// ------------------------------------------------------------------------------------------------
+//      Skin:                       RSA Ready 2023
+//      Scope:                      RSA Ready Application Form (Wufoo)
+//      Created By:                 Jeff Shurtliff
+//      Last Modified By:           Jeff Shurtliff
+//      Last Modified Date:         2023-01-03
+//      Last Reviewed By:           N/A
+//      Last Reviewed Date:         N/A
+// ------------------------------------------------------------------------------------------------
+*/
+
+/* Change the button color */
+.redesigned-theme-2018 input.btTxt {
+    background-color: #be3a34;
+    border: 1px solid #be3a34;
+}
+
+/* Change the button hover color */
+.redesigned-theme-2018 input.btTxt:focus, 
+.redesigned-theme-2018 input.btTxt:hover {
+    background-color: #fff;
+    border: 1px solid #be3a34;
+    color: #be3a34;
+}
+
